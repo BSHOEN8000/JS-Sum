@@ -1,0 +1,6 @@
+var a;
+var b;
+var sum;
+a=2;
+b=3;
+sum=a*b;
